@@ -1,5 +1,13 @@
 # Changelog
 
+## [25.47.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.47.0...v25.47.1) (2025-10-16)
+
+
+### Bug Fixes
+
+* **ignore:** Rename `ZigBee` -&gt; `Zigbee` ([#10384](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10384)) ([2ad87db](https://github.com/Koenkk/zigbee-herdsman-converters/commit/2ad87db740e3806e87bbea385e26802bb874df6b))
+* Tuya _TZ3000_okaz9tjs: fix configure failing https://github.com/Koenkk/zigbee2mqtt/issues/29034 ([7b3149f](https://github.com/Koenkk/zigbee-herdsman-converters/commit/7b3149f31a4a4ee8e4e6ad7f81f8284a24cdb49b))
+
 ## [25.47.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.46.0...v25.47.0) (2025-10-16)
 
 
